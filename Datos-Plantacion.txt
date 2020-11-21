@@ -1,0 +1,11 @@
+5
+cafe, 1, 001, 1
+hongo
+cafe, 1, 002, 1
+hongo
+cafe, 2, 003, 1
+ninguna
+frijol, 1, 004, 1
+ninguna
+frijol, 2, 005, 1
+ninguna
